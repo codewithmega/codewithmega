@@ -6,12 +6,12 @@ Hi! I'm a full stack developer...
 
 
 ## 🔗 Links
-[![professional portfolio](https://img.shields.io/badge/professional_portfolio-FE5000?style=for-the-badge&logoColor=white)](https://katherineoelsner.com/)
-[![creative](https://img.shields.io/badge/creative_portfolio-C71A36?style=for-the-badge&logo=macos&logoColor=white)](https://katherineoelsner.com/)
-[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://katherineoelsner.com/)
-[![tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![professional portfolio](https://img.shields.io/badge/professional_portfolio-FE5000?style=for-the-badge&logoColor=white)](https://megaprofile.vercel.app/)
+[![creative](https://img.shields.io/badge/creative_portfolio-C71A36?style=for-the-badge&logo=macos&logoColor=white)](https://codewithmega-mac.vercel.app/)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithmegaYT)
+[![tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codewithmega)
+<!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)-->
 
 
 
@@ -28,6 +28,6 @@ Hi! I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Vanilla PHP, Laravel (in the works), Video Editing (Capcut ✔️ -> Davinvi Resolve, Premier Pro, After Effects, ⏲️ (still learning), Basic Graphics Design.
+Javascript, HTML, CSS, Vanilla PHP, Laravel (in the works), Video Editing (Capcut ✔️ -> Davinci Resolve, Premier Pro, After Effects, ⏲️ (still learning), Basic Graphics Design.
 Mathematics, Academia.
 
