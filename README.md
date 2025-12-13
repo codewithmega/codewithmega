@@ -15,7 +15,7 @@ Hi! I'm a full stack developer...
 
 
 
-## Other Common Github Profile Sections
+## My Activities
 👩‍💻 I'm currently working on a real-time chatting application .. (please stay tuned)
 
 🧠 I'm currently learning ReactJS and ExpressJS. (NextJS Soon)
