@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm CodewithMEGA -_-! 👋
 
 
-**codewithmega/codewithmega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hi! I'm a full stack developer...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--
+## 🔗 Links
+[![professional portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![creative porfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![youtube](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on a real-time chatting application .. (please stay tuned)
+
+🧠 I'm currently learning ReactJS and ExpressJS. (NextJS Soon)
+
+👯‍♀️ I'm looking to collaborate on any type of project to try out what I'm learning
+
+🤔 I'm looking for help with simple backend systems and frontend projects
+
+📫 You can reach me via my socials like TikTok and send a Direct Message .. (i will be notified almost immmediately).. still working on a professional email
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, Vanilla PHP, Laravel (in the works), Video Editing (Capcut ✔️ -> Davinvi Resolve, Premier Pro, After Effects, ⏲️ (still learning), Basic Graphics Design.
+Mathematics, Academia.
+
