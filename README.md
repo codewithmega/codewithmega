@@ -6,7 +6,7 @@ Hi! I'm a full stack developer...
 
 
 ## 🔗 Links
-[![professional portfolio](https://img.shields.io/badge/professional_portfolio-FE5000?style=for-the-badge&logoColor=white)](https://megaprofile.vercel.app/)
+[![professional portfolio](https://img.shields.io/badge/professional_portfolio-FE5000?style=for-the-badge&logoColor=white)](https://codewithmega.vercel.app/)
 [![creative](https://img.shields.io/badge/creative_portfolio-C71A36?style=for-the-badge&logo=macos&logoColor=white)](https://codewithmega-mac.vercel.app/)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithmegaYT)
 [![tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codewithmega)
